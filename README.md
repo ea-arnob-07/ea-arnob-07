@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Estiuk%20Arafat%20Arnob&fontSize=70&fontAlignY=35&animation=twinkling&desc=XAI%20Researcher%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=55&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Estiuk%20Arafat%20Arnob&fontSize=70&fontAlignY=35&animation=twinkling&desc=XAI%20Researcher%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=55&descAlign=60" />
 </div>
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" /> 
-  Hi there, I'm Estiuk!
+  Hi there, I'm Arnob!
 </h1>
 
 <div align="center">
